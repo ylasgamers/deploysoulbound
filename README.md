@@ -6,9 +6,13 @@
 - [Open Remix ETH](https://remix.ethereum.org/#lang=en&optimize=true&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js)
 - Copy/Upload Into Remix Solidity Code From erc721_not_transferable.sol
 - Go To Solidity Compiler Settings
+
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/Hyc9Sz3ETGSAzT2H_bt2Fg.png)](https://github.com/ylasgamers/deploysoulbound)
+
 - Go To Deploy & Run Transaction Settings
+
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/TK8fcYw6ScqJ7Fr02d9opA.png)](https://github.com/ylasgamers/deploysoulbound)
+
 - Click Transact Button & Confirmation On Your Wallet
 - If Success Will Show Result Contract Address Of ERC721
 
@@ -23,7 +27,9 @@ Please select Compiler Version
 Please select Open Source License Type
 - 3) MIT License (MIT)
 ```
+
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/3TwBfjhqTNCuCPZ1e06r3Q.png)](https://github.com/ylasgamers/deploysoulbound)
+
 - Click Continue
 ```
 Enter the Solidity Contract Code below *
@@ -37,7 +43,9 @@ EVM Version to target
 License Type
 3) MIT License (MIT)
 ```
+
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/OGQlAWYfTVyL0nkYzY3_rA.png)](https://github.com/ylasgamers/deploysoulbound)
+
 - Verify & Publish
 - Done
 
@@ -46,4 +54,5 @@ License Type
 - Click Contract > Write Contract
 - Connect to web3 ( your wallet owner of erc721 )
 - Click function mint > input address to recipient erc721 > write
+
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/umeHYWM-TQuXKuGjrVofiQ.png)](https://github.com/ylasgamers/deploysoulbound)
