@@ -46,3 +46,4 @@ License Type
 - Click Contract > Write Contract
 - Connect to web3 ( your wallet owner of erc721 )
 - Click function mint > input address to recipient erc721 > write
+[![YLAS GAMERS](https://img001.prntscr.com/file/img001/umeHYWM-TQuXKuGjrVofiQ.png)](https://github.com/ylasgamers/deploysoulbound)
