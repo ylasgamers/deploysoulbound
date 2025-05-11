@@ -1,7 +1,7 @@
 {
   "name": "NonTransferableNFT #1",
   "description": "This is a non-transferable NFT, minted by the contract owner only.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreibumja2dwzomxgdngiyf5k2wtg65ew4q3q3vbd5rbx2dk7wt6trlq",
+  "image": "https://example.com/images/1.png",
   "attributes": [
     {
       "trait_type": "Type",
