@@ -40,3 +40,9 @@ License Type
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/OGQlAWYfTVyL0nkYzY3_rA.png)](https://github.com/ylasgamers/deploysoulbound)
 - Verify & Publish
 - Done
+
+# Mint ERC721 From etherscan
+- Go ERC721 You Deploy & Verif On Etherscan Before
+- Click Contract > Write Contract
+- Connect to web3 ( your wallet owner of erc721 )
+- Click function mint > input address to recipient erc721 > write
