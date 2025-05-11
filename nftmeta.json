@@ -1,0 +1,16 @@
+{
+  "name": "NonTransferableNFT #1",
+  "description": "This is a non-transferable NFT, minted by the contract owner only.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreibumja2dwzomxgdngiyf5k2wtg65ew4q3q3vbd5rbx2dk7wt6trlq",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Soulbound"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    }
+  ],
+  "external_url": "https://example.com/nft/1"
+}
